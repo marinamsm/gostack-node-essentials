@@ -1,6 +1,6 @@
 # Service and Repository Patterns with Typescript
 
-A simple CRUD project in Node, Express and Typescript to practice concepcts like SOLID principles architectural patterns.
+A simple CRUD project in Node, Express and Typescript to practice concepts like SOLID principles architectural patterns.
 
 ### Prerequisites
 
