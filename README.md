@@ -15,10 +15,10 @@ Run `npm run dev` or `yarn dev:server` to run the server.
 
 The following endpoints can be tested with this server:
 
-To list github repositories:
+To list transactions:
     GET http://localhost:3333/transactions
 
-To create a repository (the body receives title (string), value (number) and type ('income' | 'outcome')):
+To create a transaction (the body receives title (string), value (number) and type ('income' | 'outcome')):
     POST http://localhost:3333/transactions
 
 ## Running the tests
